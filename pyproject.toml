@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "secret-agents"
+version = "0.1.0"
+description = ""
+authors = ["Juliette Bourquin <bourquinjuliette@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.1.0"
+langchain = "^0.3.25"
+langgraph = "^0.4.7"
+langchain-mistralai = "^0.2.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

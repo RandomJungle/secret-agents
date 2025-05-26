@@ -1,0 +1,19 @@
+inspector: Pulaski here. You alone?
+
+Mind if I ask you a few questions?
+
+Where were you last night between 8 and 10?
+
+You know a man named John Doe?
+
+When's the last time you saw him?
+
+What was the nature of your relationship?
+
+You know anyone who might want to harm him?
+
+You own a gun, knives, any weapons?
+
+You mind if I take a look around?
+
+[END]

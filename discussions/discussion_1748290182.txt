@@ -1,0 +1,21 @@
+inspector: Pulaski here. You got a minute?
+
+Need to ask you a few questions.
+
+Where were you last night between 8 and 10?suspect: Well, hello there, Detective. Gigi Monaco here, nice to make your acquaintance, though I must say, I've had more pleasant conversations at this hour. But who's counting?
+
+Last night, you say? Between 8 and 10, I was at Madame Seraphina's Cabaret, as I am most nights. I'm a performer there, sweetheart. I was getting ready for my show, which started at 10:30. There were plenty of people around, from the stage hands to the other performers. You can ask any of them, they'll tell you I was there, applying my makeup and getting into my costume. It's a whole process, you know.inspector: Were you at the cabaret the entire night?
+
+Did you leave at any point?
+
+Anyone visit you backstage?
+
+I need names, Gigi. Anyone who can confirm your story.
+
+Well, Detective, I was at the cabaret from about 7 until well after midnight. I didn't leave, no. Too much going on backstage to just up and disappear, even for a moment.
+
+Let me think... Yes, Lola Delight, one of the other performers, she stopped by my dressing room to wish me luck. And Jojo, the stage manager, he was in and out, making sure everything was running smoothly. Oh, and I can't forget Madame Seraphina herself. She always comes by to see how I'm doing before a show.
+
+As for the audience, I couldn't tell you who was out there. Once I'm on that stage, the lights are so bright, everyone just blends into a sea of shadows. But the folks backstage, they can vouch for me, honey.
+
+[END]
